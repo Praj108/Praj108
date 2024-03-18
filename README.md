@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...Python developement team
 - 📫 How to reach me ...prajwallandage12@gmail.com
 - 😄 Pronouns: ...Prajwal
-- ⚡ Fun fact: ...Enjoying the moment
+- ⚡ Fun fact: ...
 
 <!---
 Praj108/Praj108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
